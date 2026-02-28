@@ -4,11 +4,9 @@
 
 <div align="center">
   <h1>SteelSQL</h1>
-  
-
   <p align="center">
-    <p align="center">Next generation Database manage tooling</p>
-    <img src="images/full-datagrid-filter-dark.png"  height="550px">
+    <p align="center">Reinventing the way you interact with data.</p>
+    <img src="images/dark-filter.png"  height="550px">
     <h3 align="center">This repository is currently being used for hosting the official issue & bug tracker  </h3>
     </p>
 </div>
@@ -22,43 +20,42 @@
 
 <h2>SteelSQL</h2>
 
-<p>
-🎉 Exciting news! Our software is now officially live on the Apple App Store! Download it today and experience innovation at your fingertips. Thank you for your support! 🚀✨🚀✨
-</p>
-
 <h3>
 SteelSQL is free and has no limit on trial time
 We would be thrilled if you purchased a license to support development!
 </h3>
 <p align="center">
-<a href="https://apps.apple.com/us/app/steelsql/id6464395288" target="_blank">    
+<a href="https://steelsql.com" target="_blank">    
 <!-- <img src="assets/mac.svg"  height="30px"> -->
-Download from Apple app stroe
+Download
 </a> 
 </p>
-<p align="center">(windows,linux coming soon)</p>
 
-SteelSQL is a cross-platform database management tool supporting mac,(windows,linux coming soon)
+SteelSQL is a cross-platform database management tool supporting macOS, Windows, and Linux. Whether you are a seasoned database administrator or a developer, SteelSQL streamlines your database operations and enhances productivity.
 
 SteelSQL is the most advanced database management solution designed to meet the needs of developers, data professionals, and organizations striving for seamless data operations. Combining powerful features with an intuitive interface, it is ideal for managing any database environment.
 
 Say goodbye to complexity and embrace efficiency! SteelSQL is a database management tool for the modern developer, combining powerful features with an elegant design to help you navigate the ocean of data with ease.
 
-Perfectly supports oracle in Apple Silicon Mac!
+SteelSQL is built using Electron technology, but it strictly controls memory usage, resulting in low memory consumption.
 
 ### Why SteelSQL?
 
 1. **Multiple Databases Support**: Whether you are using MySQL/MariaDB, PostgreSQL, Oracle, Sqlite, or SQL Server, SteelSQL simplifies connectivity between multiple database systems. Say goodbye to compatibility issues and use a unified interface for all your data needs!
 
-2. **Efficient Data Filtering**: Provide unprecedented data filtering methods, which can greatly improve the filtering efficiency and user experience, grouping filtering like Excel to edit data, and provide perfect customization support to adapt to a variety of complex database requirements.
+2. **AI-Powered Natural Language Query**: Integrated with AI chat interface, enabling database queries through natural language (AI Chat to DB). The system automatically parses semantics and generates corresponding SQL, lowering the barrier to data querying and improving data access efficiency for non-technical users.
 
-3. **Intelligent Code Completion**: Writing complex queries has never been easier with SteelSQL's intelligent code completion and syntax highlighting features. Our advanced SQL editor increases your productivity and lets you focus on creating the best queries without the hassle.
+3. **Efficient Data Filtering**: Provide unprecedented data filtering methods, which can greatly improve the filtering efficiency and user experience, grouping filtering like Excel to edit data, and provide perfect customization support to adapt to a variety of complex database requirements.
 
-4. **Visual Database Design**: Create and modify database structures effortlessly with our intuitive visual design tools. Supports column, indexex, unique, check, foreignKey editing.
+4. **Intelligent Code Completion**: Writing complex queries has never been easier with SteelSQL's intelligent code completion, SQL formatting and syntax highlighting features. Our advanced SQL editor increases your productivity and lets you focus on creating the best queries without the hassle.
 
-5. **Comprehensive Data Management**: Easily browse, edit and visualize data. With support for cell multi-selection, editing, copying and pasting, SteelSQL allows you to perform batch updates, manage databases, and import/export data with just a few clicks, streamlining your workflow like never before.
+5. **Visual Database Design**: Create and modify database structures effortlessly with our intuitive visual design tools. Supports column, indexex, unique, check, foreignKey editing.
 
-6. **Highly Customizable**: Support theme switching, icon colors, SQL editor customization settings, shortcut key definitions for almost all functions, data colors, etc. to create your own database management environment.
+6. **Comprehensive Data Management**: Easily browse, edit and visualize data. With support for cell multi-selection, editing, copying and pasting, SteelSQL allows you to perform batch updates, manage databases, and import/export data with just a few clicks, streamlining your workflow like never before.
+
+7. **Multi-Format Data Import/Export**: Supports exporting query results or entire tables to multiple formats including Xlsx, CSV, JSON, Xml and Insert SQL. Built-in data import engine supports batch data migration, incremental updates, and automatic format conversion to meet data backup and exchange requirements.
+
+8. **Highly Customizable**: Support theme switching, icon colors, SQL editor customization settings, shortcut key definitions for almost all functions, data colors, etc. to create your own database management environment.
 
 ### **Experience the Advantages of SteelSQL**
 
@@ -66,7 +63,9 @@ SteelSQL is designed to enhance your database management experience. No more str
 
 ### **Try SteelSQL today!**
 
-Ready to elevate your database management? Experience the power, flexibility and efficiency of SteelSQL. Sign up for a free trial and learn how SteelSQL can change your data management journey and enable you to achieve more than ever before. Let's build the future of data together!
+Ready to elevate your database management? Experience the power, flexibility and efficiency of SteelSQL. Sign up for a free trial and learn how SteelSQL can change your data management journey and enable you to achieve more than ever before. Let's build the future of data together! <a href="https://steelsql.com" target="_blank">    
+Download
+</a> 
 
 ## Information Collection and Use
 
