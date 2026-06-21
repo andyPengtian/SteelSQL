@@ -3,7 +3,12 @@
 </p>
 
 <div align="center">
-  <h1>SteelSQL</h1>
+  <h1>SteelSQL </h1>
+  <p align="center">
+   <a href="https://github.com/andyPengtian/SteelSQL/RoadMap.md">    
+    Roadmap
+    </a> 
+  </p>
   <p align="center">
     <p align="center">Reinventing the way you interact with data.</p>
     <img src="images/dark-filter.png"  height="550px">
@@ -30,6 +35,7 @@ We would be thrilled if you purchased a license to support development!
 Download
 </a> 
 </p>
+
 
 SteelSQL is a cross-platform database management tool supporting macOS, Windows, and Linux. Whether you are a seasoned database administrator or a developer, SteelSQL streamlines your database operations and enhances productivity.
 
