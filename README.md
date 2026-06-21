@@ -41,9 +41,9 @@ SteelSQL is built using Electron technology, but it strictly controls memory usa
 
 ### Why SteelSQL?
 
-1. **Multiple Databases Support**: Whether you are using MySQL/MariaDB, PostgreSQL, Oracle, Sqlite, or SQL Server, SteelSQL simplifies connectivity between multiple database systems. Say goodbye to compatibility issues and use a unified interface for all your data needs!
+1. **Multiple Databases Support**: Whether you are using MySQL/MariaDB, PostgreSQL, Oracle, Sqlite, SQL Server, TIDB, CockroachDB, Redshift, Greenplum, Cassandra and ClickHouse, SteelSQL simplifies connectivity between multiple database systems. Say goodbye to compatibility issues and use a unified interface for all your data needs!
 
-2. **AI-Powered Natural Language Query**: Integrated with AI chat interface, enabling database queries through natural language (AI Chat to DB). The system automatically parses semantics and generates corresponding SQL, lowering the barrier to data querying and improving data access efficiency for non-technical users.
+2. **AI-Powered Natural Language Query**: Integrated with AI chat interface, enabling database queries through natural language (AI Chat to DB). The system automatically parses semantics and generates corresponding SQL, lowering the barrier to data querying and improving data access efficiency for non-technical users. It also provides three AI-powered SQL assistance features: Explain by AI (adds explanatory comments to SQL), Fix by AI (automatically corrects SQL errors with repair notes), and Optimize by AI (analyzes EXPLAIN data to optimize SQL performance).
 
 3. **Efficient Data Filtering**: Provide unprecedented data filtering methods, which can greatly improve the filtering efficiency and user experience, grouping filtering like Excel to edit data, and provide perfect customization support to adapt to a variety of complex database requirements.
 
