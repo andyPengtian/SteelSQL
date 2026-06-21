@@ -5,7 +5,7 @@
 <div align="center">
   <h1>SteelSQL </h1>
   <p align="center">
-   <a href="https://github.com/andyPengtian/SteelSQL/blob/main/RoadMap.md">    
+   <a href="https://github.com/andyPengtian/SteelSQL/wiki/RoadMap">
     Roadmap
     </a> 
   </p>
