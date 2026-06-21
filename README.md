@@ -47,7 +47,7 @@ SteelSQL is built using Electron technology, but it strictly controls memory usa
 
 3. **Efficient Data Filtering**: Provide unprecedented data filtering methods, which can greatly improve the filtering efficiency and user experience, grouping filtering like Excel to edit data, and provide perfect customization support to adapt to a variety of complex database requirements.
 
-4. **Intelligent Code Completion**: Writing complex queries has never been easier with SteelSQL's intelligent code completion, SQL formatting and syntax highlighting features. Our advanced SQL editor increases your productivity and lets you focus on creating the best queries without the hassle.
+4. **Efficient Code Completion**: Writing complex queries has never been easier with SteelSQL's efficient code completion, SQL formatting and syntax highlighting features. Our advanced SQL editor increases your productivity and lets you focus on creating the best queries without the hassle.
 
 5. **Visual Database Design**: Create and modify database structures effortlessly with our intuitive visual design tools. Supports column, indexex, unique, check, foreignKey editing.
 
